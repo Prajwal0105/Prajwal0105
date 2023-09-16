@@ -8,6 +8,8 @@ developing, and operating robust data pipelines within cloud ecosystems.
   - GCP Cloud (Already worked on Azure & AWS)
   - Exporing Modern Data Stack (dbt, Snowflake, Airflow)
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/prajwal-kp-3b65b0158/)
+- 📝 My Master Thesis Project on Big data Analytics and Machine Learning
+  - Optimal approach towards Crime Prediction and Detection using Big Data and ML
 - 🤘 Here are my Open Source contributions so far. I keep building projects related to data engineering.
   - Spotify End-to-End pipeline building
   - Twitter data pipeline using Airflow
