@@ -11,7 +11,7 @@ developing, and operating robust data pipelines within cloud ecosystems.
 - 📝 My Master Thesis Project on Big data Analytics and Machine Learning
   - Optimal approach towards Crime Prediction and Detection using Big Data and ML
 - 🤘 Here are my Open Source contributions so far. I keep building projects related to data engineering.
-  - Spotify End-to-End pipeline building
+  - [Spotify End-to-End pipeline building](https://github.com/Prajwal0105/spotify-end-to-end-data-engineering-project)
   - Twitter data pipeline using Airflow
   - Olympics Data Analytics
 
