@@ -13,7 +13,7 @@ developing, and operating robust data pipelines within cloud ecosystems.
 - 🤘 Here are my Open Source contributions so far. I keep building projects related to data engineering.
   - [Spotify End-to-End pipeline building](https://github.com/Prajwal0105/spotify-end-to-end-data-engineering-project)
   - [Twitter data pipeline using Airflow](https://github.com/Prajwal0105/twitter-airflow-data-engineering-project)
-  - Stock Market Data Pipeline Project on Google Cloud Platform.
+  - Uber Data Analytics using GCP
     
 
  If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.
