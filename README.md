@@ -5,7 +5,7 @@ Data Engineering and with a Master Degree in Big Data Analytics and AI, I have e
 developing, and operating robust data pipelines within cloud ecosystems.
 - 👀 I’m interested in learning new techniques, technologies, and best practices in data management and analytics.
 - 🌱 I’m currently learning
-  - AWS Cloud (Already worked on Azure & GCP)
+  - GCP Cloud (Already worked on Azure & AWS)
   - Exporing Modern Data Stack (dbt, Snowflake, Airflow)
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/prajwal-kp-3b65b0158/)
 - 📝 My Master Thesis Project on Big data Analytics and Machine Learning
