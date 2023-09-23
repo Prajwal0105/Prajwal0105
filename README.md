@@ -14,6 +14,7 @@ developing, and operating robust data pipelines within cloud ecosystems.
   - [Spotify End-to-End pipeline building](https://github.com/Prajwal0105/spotify-end-to-end-data-engineering-project)
   - [Twitter data pipeline using Airflow](https://github.com/Prajwal0105/twitter-airflow-data-engineering-project)
   - [Uber Data Analytics using GCP](https://github.com/Prajwal0105/uber-data-analytics-using-GCP)
+  - [Stock Market Real-Time Data Analysis Using Kafka](https://github.com/Prajwal0105/stock-market-real-time-data-analysis-using-kafka)
     
 
  If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.
