@@ -19,7 +19,7 @@ through comprehensive data analysis and visualization techniques.
   - [Stock Market Real-Time Data Analysis](https://github.com/Prajwal0105/stock-market-real-time-data-analysis-using-kafka)
     
 
- If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.
+ If you want to talk to me or want to discuss something then feel free to ping on [LinkedIn](https://www.linkedin.com/in/prajwal-kp-3b65b0158/)
 
 <!---
 Prajwal0105/Prajwal0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
