@@ -12,7 +12,7 @@ through comprehensive data analysis and visualization techniques.
   - Exporing Modern Data Stack (dbt, Snowflake)
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/prajwal-kp-3b65b0158/)
 - 📝 **My Master Thesis Project** on Big data Analytics and Machine Learning
-  - [Optimal approach towards Crime Prediction and Detection using Big Data and ML](https://github.com/Prajwal0105/master-thesis-project)
+  - [Optimal approach towards Crime Prediction and Detection through Exploratory Data Analysis using Big Data and ML](https://github.com/Prajwal0105/master-thesis-project)
 - 🤘 Here are my Open Source contributions so far. I keep building projects related to data engineering.
   - [Spotify End-to-End Analysis](https://github.com/Prajwal0105/spotify-end-to-end-data-engineering-project)
   - [Uber Data Analytics using GCP](https://github.com/Prajwal0105/uber-data-analytics-using-GCP)
