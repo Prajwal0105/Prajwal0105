@@ -15,6 +15,7 @@ through comprehensive data analysis and visualization techniques.
   - [Optimal approach towards Crime Prediction and Detection through Exploratory Data Analysis using Big Data and ML](https://github.com/Prajwal0105/master-thesis-project)
 - 🤘 Here are my Open Source contributions so far. I keep building projects related to data engineering.
   - [Spotify End-to-End Analysis](https://github.com/Prajwal0105/spotify-end-to-end-data-engineering-project)
+  - [Data Analysis on Sales Insights using Tableau and SQL](https://github.com/Prajwal0105/Data-Analysis-on-Sales-Insights-using-Tableau-SQL-/tree/main)
   - [Uber Data Analytics using GCP](https://github.com/Prajwal0105/uber-data-analytics-using-GCP)
   - [Stock Market Real-Time Data Analysis](https://github.com/Prajwal0105/stock-market-real-time-data-analysis-using-kafka)
     
