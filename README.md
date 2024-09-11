@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPnxfBhmxqtmTH0uooAyJ6sgpzemanqLVlSA&s)]
 # 👋 Hello, I'm Prajwal  
 ## Data Analytics Professional | Cloud Enthusiast | Open Source Contributor
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
