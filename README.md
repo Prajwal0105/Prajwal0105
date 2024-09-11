@@ -47,5 +47,5 @@ Here are some of the key open-source projects I’ve built, showcasing my expert
 ## 📫 Let’s Connect
 
 I'm always open to discussing exciting projects, new opportunities, and ways to solve data challenges! Feel free to reach out:  
-[**LinkedIn**](https://www.linkedin.com/in/prajwal-kp-3b65b0158/)
+[**LinkedIn**](https://www.linkedin.com/in/prajwal-kibbanahalli-prabhuswamy/)
 
