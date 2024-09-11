@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prajwal  
 ## Data Analytics Professional | Cloud Enthusiast | Open Source Contributor
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
 **Welcome! Thanks for stopping by. Here’s a bit about me:**
 
 - 🧑🏻‍🏫 **Experienced Analytics Professional** with over 3 years of hands-on experience in **Data Analytics** and **AI**, holding a **Master’s Degree** in the field. My expertise lies in developing and maintaining business intelligence solutions that drive **organizational growth**, **operational optimization**, and data-driven decision-making.
